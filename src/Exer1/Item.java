@@ -9,5 +9,5 @@ public abstract class Item {
         this.preco = preco;
     }
 
-    public abstract void mostrarDetalhesDoItem();
+    public abstract String mostrarDetalhesDoItem();
 }
